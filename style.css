@@ -1,0 +1,11 @@
+body {
+    height: px;
+    background-color: seashell;
+    background-image: url(Gambarweb/bgawal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+img {
+    margin-left: 85%;
+    margin-top: 6px;
+}
